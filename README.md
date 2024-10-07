@@ -1,5 +1,9 @@
 # topicos-ia-2024-1er-parcial
 
+## Datos del estudiante:
+
+* **NOMBRE:** JOSÉ SAMUEL CARRASCO ENCINAS
+* **CÓDIGO:** 63003
 
 ## instrucciones
 
